@@ -1,5 +1,7 @@
 ## Changelog
 
+Test change here
+
 Update <small>_ April 2022</small>
 
 - docs: copy changelog and command listing from docs repo (29/04/2022)
