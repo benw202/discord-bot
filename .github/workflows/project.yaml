@@ -16,4 +16,4 @@ jobs:
         uses: srggrs/assign-one-project-github-action@1.2.1
         if: github.event.action == 'opened'
         with:
-          project: 'https://github.com/srggrs/assign-one-project-github-action/projects/2'
+          project: 'https://github.com/benw202/discord-bot/projects/1'
