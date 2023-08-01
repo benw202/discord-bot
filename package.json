@@ -24,7 +24,7 @@
     "jsdom": "^21.1.0",
     "moment": "^2.29.3",
     "mongoose": "^7.0.3",
-    "node-fetch": "^2.6.7",
+    "node-fetch": "^3.3.2",
     "winston": "^3.3.4"
   },
   "devDependencies": {
